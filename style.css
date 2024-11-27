@@ -1,0 +1,18 @@
+select{
+    width: 300px;
+    height: 40px;
+    border: 0px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    font-size: larger;
+}
+button{
+    width: 300px;
+    height: 40px;
+    border: 0px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    font-size: larger;
+}
